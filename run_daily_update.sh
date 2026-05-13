@@ -20,16 +20,29 @@ fi
 
 # 2. 生成 HTML 网页
 echo ""
-echo "🌐 步骤 2/3: 生成网页..."
+echo "🌐 步骤 2/4: 生成网页..."
 python3 generate_html.py
 if [ $? -ne 0 ]; then
     echo "❌ 更新网页失败"
     exit 1
 fi
 
-# 3. 备份数据
+# 3. 更新 GitHub Pages 文件
 echo ""
-echo "💾 步骤 3/3: 备份数据..."
+echo "📤 步骤 3/4: 更新 GitHub Pages..."
+cp /Users/bytedance/daily_news.html docs/daily_news.html
+git add docs/ news_data.json
+git commit -m "Update daily news: $(date '+%Y-%m-%d')"
+git push origin main
+if [ $? -eq 0 ]; then
+    echo "✅ GitHub Pages 已更新"
+else
+    echo "⚠️  GitHub 推送失败，请检查网络或手动推送"
+fi
+
+# 4. 备份数据
+echo ""
+echo "💾 步骤 4/4: 备份数据..."
 BACKUP_DIR="backups/$(date '+%Y%m%d')"
 mkdir -p "$BACKUP_DIR"
 cp news_data.json "$BACKUP_DIR/"
