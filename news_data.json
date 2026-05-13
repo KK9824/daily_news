@@ -1,0 +1,271 @@
+{
+  "date": "2026-05-13",
+  "ai": [
+    {
+      "title": "财务团队如何使用 Codex",
+      "summary": "了解财务团队如何使用 Codex 根据实际工作输入构建 MBR、报告包、差异桥、模型检查和规划场景。",
+      "source": "https://openai.com/academy/how-finance-teams-use-codex",
+      "date": "2026-05-12",
+      "source_name": "OpenAI Blog",
+      "translated": true,
+      "tags": [
+        "#OpenAI",
+        "#AI",
+        "#Codex"
+      ]
+    },
+    {
+      "title": "NVIDIA 工程师和研究人员如何使用 Codex 进行构建",
+      "summary": "团队使用 Codex 和 GPT-5.5 来交付生产系统，并将研究想法转化为可运行的实验。",
+      "source": "https://openai.com/index/nvidia",
+      "date": "2026-05-12",
+      "source_name": "OpenAI Blog",
+      "translated": true,
+      "tags": [
+        "#OpenAI",
+        "#AI",
+        "#Codex"
+      ]
+    },
+    {
+      "title": "参数高尔夫教会了我们关于人工智能辅助研究的哪些知识",
+      "summary": "Parameter Golf 汇聚了 1,000 多名参与者和 2,000 多份提交材料，共同探索人工智能辅助机器学习研究、编码代理、量化……",
+      "source": "https://openai.com/index/what-parameter-golf-taught-us",
+      "date": "2026-05-12",
+      "source_name": "OpenAI Blog",
+      "translated": true,
+      "tags": [
+        "#OpenAI",
+        "#AI",
+        "#000"
+      ]
+    },
+    {
+      "title": "AutoScout24 通过人工智能驱动的工作流程扩展工程",
+      "summary": "了解 AutoScout24 Group 如何使用 Codex 和 ChatGPT 来加快开发周期、提高代码质量并扩大人工智能的采用。",
+      "source": "https://openai.com/index/autoscout24",
+      "date": "2026-05-12",
+      "source_name": "OpenAI Blog",
+      "translated": true,
+      "tags": [
+        "#OpenAI",
+        "#AI",
+        "#AutoScout24"
+      ]
+    },
+    {
+      "title": "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+      "summary": "无需为不同平台分别写UI代码",
+      "source": "https://www.qbitai.com/2026/05/416864.html",
+      "date": "2026-05-13",
+      "source_name": "量子位",
+      "translated": false,
+      "tags": [
+        "#量子位",
+        "#AI",
+        "#高德"
+      ]
+    }
+  ],
+  "internet": [
+    {
+      "title": "林俊旸创业，新公司估值约20亿美金丨智能涌现独家",
+      "summary": "文｜周鑫雨 邓咏仪 编辑｜杨轩 林俊旸以创业者的身份，重新加入AI模型的战场。 《智能涌现》独家获悉，前阿里千问大模型技术负责人林俊旸近期已经开启创业，考虑方向包括世界模型和具身大脑。 目前，林俊旸已经招募数名字节、腾讯和海外背景的成员，并以约20亿美金的估值开启融资，接触基金包括红杉中国、高...",
+      "source": "https://36kr.com/p/3807382930251523?f=rss",
+      "date": "2026-05-13",
+      "source_name": "36kr",
+      "translated": false,
+      "tags": [
+        "#36氪",
+        "#互联网",
+        "#林俊"
+      ]
+    },
+    {
+      "title": "6月上海，这场论坛聊透出海真问题",
+      "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行 出海这件事，已经变了。 如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。 &nbsp;如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出...",
+      "source": "https://36kr.com/p/3807234971131656?f=rss",
+      "date": "2026-05-13",
+      "source_name": "36kr",
+      "translated": false,
+      "tags": [
+        "#36氪",
+        "#互联网",
+        "#出海"
+      ]
+    },
+    {
+      "title": "36氪专访 | 安克创新eufyMake负责人：众筹超4000万美金后，还在红海寻找缝隙",
+      "summary": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 那是一个价值5000万美元成功故事诞生的夜晚。 eufyMake的产研负责人Cheney Xie仍然记得狂喜带来的多巴胺。那是2025年4月29日晚上十点，eufy MakeUV打印机E1上线众筹。 首个100万美元的...",
+      "source": "https://36kr.com/p/3806507139390984?f=rss",
+      "date": "2026-05-13",
+      "source_name": "36kr",
+      "translated": false,
+      "tags": [
+        "#36氪",
+        "#互联网",
+        "#eufyMake"
+      ]
+    },
+    {
+      "title": "36氪首发 | 清华系光计算芯片企业完成数千万天使轮融资，瞄准全波光计算架构",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，近日，光子芯力（北京）科技有限公司（以下简称“光子芯力”）宣布完成数千万元天使轮融资，由苏州芯阳基金、驰星创投、盛景嘉成联合领投，开源创投跟投。 光子芯力成立于2024年，总部位于北京，是一家专注于光电融合计...",
+      "source": "https://36kr.com/p/3807043342475009?f=rss",
+      "date": "2026-05-13",
+      "source_name": "36kr",
+      "translated": false,
+      "tags": [
+        "#36氪",
+        "#互联网",
+        "#芯力"
+      ]
+    },
+    {
+      "title": "深耕“具身智能+建筑大模型”底座，重构万亿建筑业，「方石机器人」完成近亿元A轮融资 | 36氪首发",
+      "summary": "36氪获悉，智能建造机器人本体开发商北京方石机器人有限公司（下称「方石机器人」）近期宣布完成近亿元A轮融资，由北京科创亦庄直投基金、航发基金等机构联合投资。资金将主要用于核心产品的研发迭代投入、批量化生产交付能力建设以及海外市场体系布局。 方石机器人产品矩阵 方石机器人成立于2019年，致力于...",
+      "source": "https://36kr.com/p/3807039782116865?f=rss",
+      "date": "2026-05-13",
+      "source_name": "36kr",
+      "translated": false,
+      "tags": [
+        "#36氪",
+        "#互联网",
+        "#方石"
+      ]
+    }
+  ],
+  "tech": [
+    {
+      "title": "大疆 Pocket 4P 上手体验：欲穷千里目，更多摄像头",
+      "summary": "如果要选一个近三年来最火的相机，大疆 Pocket 3 绝对榜上有名。 自 2023 年 10 月发布以来，P [&#8230;]#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1664986?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-13",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#大疆"
+      ]
+    },
+    {
+      "title": "火过 iPhone？美国「小天才电话」爆红，「什么都不行」是最大卖点",
+      "summary": "拳打 iPhone，脚踢 Galaxy#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1664194?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-13",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#iPhone"
+      ]
+    },
+    {
+      "title": "时隔 22 年重返 V8 市场！莲花 1000 马力混动超跑曝光",
+      "summary": "比 1000 马力更敏感的，是重量。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665673?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-13",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#1000"
+      ]
+    },
+    {
+      "title": "当 AI Agent 走向无处不在，MediaTek 想做的不只是手机芯片",
+      "summary": "设备一直在变，但芯片作为中枢的地位不变。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665681?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-13",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
+      ]
+    },
+    {
+      "title": "谷歌发布安卓 AI 系统，这就是苹果想象中的自己",
+      "summary": "给 Gemini 不止一个身体#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665647?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-13",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
+      ]
+    }
+  ],
+  "ev": [
+    {
+      "title": "内燃机时代已经结束：全球最大市场燃油汽车销量下降 37%",
+      "summary": "全球最大汽车市场的燃油汽车销量 4 月份同比下降 37%。结果，中国排名前10的汽车中有9...",
+      "source": "https://electrek.co/2026/05/12/the-ice-age-is-over-gas-car-sales-drop-37-in-worlds-biggest-market/",
+      "date": "2026-05-13",
+      "source_name": "Electrek",
+      "translated": true,
+      "tags": [
+        "#Electrek",
+        "#新能源",
+        "#37%"
+      ]
+    },
+    {
+      "title": "随着中国出口激增，欧洲推动 4 月份全球电动汽车销量",
+      "summary": "Benchm 的最新数据显示，2026 年 4 月全球电动汽车销量达到 160 万辆，使全年总销量达到 560 万辆。",
+      "source": "https://electrek.co/2026/05/12/europe-drove-global-ev-sales-in-april-as-china-exports-surged/",
+      "date": "2026-05-12",
+      "source_name": "Electrek",
+      "translated": true,
+      "tags": [
+        "#Electrek",
+        "#新能源",
+        "#销量"
+      ]
+    },
+    {
+      "title": "带有客车门的 Genesis GV90 被发现被遗弃，没有伪装 [图片]",
+      "summary": "随着 Genesis 向高端市场升级，GV90 将配备类似劳斯莱斯的客车车门。预计即将首次亮相，但揭开...",
+      "source": "https://electrek.co/2026/05/12/genesis-gv90-with-coach-doors-abandoned-no-camo-images/",
+      "date": "2026-05-12",
+      "source_name": "Electrek",
+      "translated": true,
+      "tags": [
+        "#Electrek",
+        "#新能源",
+        "#Genesis"
+      ]
+    },
+    {
+      "title": "加州押注钠离子电池用于极热地区",
+      "summary": "加州可再生能源开发商 Juniper Energy 与 Alsym Energy 合作，在全球部署 500 MWh 钠离子电池存储项目。",
+      "source": "https://electrek.co/2026/05/12/california-bets-on-sodium-ion-batteries-for-extreme-heat-regions/",
+      "date": "2026-05-12",
+      "source_name": "Electrek",
+      "translated": true,
+      "tags": [
+        "#Electrek",
+        "#新能源",
+        "#Energy"
+      ]
+    },
+    {
+      "title": "比亚迪推出配备 LiDAR 的新款 Seagull，售价 13,000 美元，开创入门级电动汽车的先河 [视频]",
+      "summary": "海鸥现在是第一款配备车顶激光雷达的 A00 级电动汽车。比亚迪推出了配备激光雷达的 2026 年海鸥，起价约为 13,000 美元，带来...",
+      "source": "https://electrek.co/2026/05/12/byd-launches-seagull-ev-with-lidar-for-13000-first-in-its-class/",
+      "date": "2026-05-12",
+      "source_name": "Electrek",
+      "translated": true,
+      "tags": [
+        "#Electrek",
+        "#新能源",
+        "#13"
+      ]
+    }
+  ]
+}
