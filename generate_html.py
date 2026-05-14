@@ -174,6 +174,7 @@ def generate_html(news_data):
             margin-bottom: 15px;
             transition: all 0.3s ease;
             border-left: 4px solid transparent;
+            cursor: pointer;
         }}
         .news-item:hover {{ transform: translateX(5px); box-shadow: 0 4px 15px rgba(0,0,0,0.1); }}
         .section.ai .news-item:hover {{ border-left-color: #FF6B6B; }}
@@ -402,7 +403,7 @@ def generate_html(news_data):
                         const translatedBadge = news.translated ? '<span class="translated-badge">译</span>' : '';
                         const tagsHtml = news.tags && news.tags.length > 0 ? news.tags.map(tag => `<span class="news-tag">${{tag}}</span>`).join('') : '';
                         const footerContent = translatedBadge || tagsHtml ? `${{translatedBadge}}${{tagsHtml}}` : '';
-                        html += `<div class="news-item"><div class="news-title">${{news.title}}</div><div class="news-summary">${{news.summary}}</div><div class="news-footer">${{footerContent}}<a href="${{news.source}}" target="_blank" class="news-source" onclick="event.stopPropagation()">🔗 查看来源</a></div></div>`;
+                        html += `<div class="news-item" onclick="window.open('${{news.source}}', '_blank')"><div class="news-title">${{news.title}}</div><div class="news-summary">${{news.summary}}</div><div class="news-footer">${{footerContent}}<span class="news-source">🔗 查看来源</span></div></div>`;
                     }});
                     html += '</div>';
                 }}
@@ -444,7 +445,8 @@ def generate_html(news_data):
                             const translatedBadge = news.translated ? '<span style="display:inline-block;background:transparent;color:#667eea;font-size:0.7em;padding:2px 8px;border-radius:10px;margin-right:6px;font-weight:600;vertical-align:middle;border:1.5px solid #667eea;">译</span>' : '';
                             const tagsText = news.tags && news.tags.length > 0 ? news.tags.map(tag => `<span style="font-size:0.75em;padding:3px 10px;border-radius:12px;background:rgba(102,126,234,0.1);color:#667eea;margin-right:6px;">${{tag}}</span>`).join('') : '';
                             const footerContent = translatedBadge || tagsText ? `${{translatedBadge}}${{tagsText}}` : '';
-                            exportHTML += `<div style="background:#f8f9fa;border-radius:12px;padding:20px;margin-bottom:15px;border-left:4px solid ${{sectionColor}};"><div style="font-size:1.15em;font-weight:600;color:#1a1a2e;margin-bottom:8px;line-height:1.4;">${{news.title}}</div><div style="font-size:0.95em;color:#666;line-height:1.6;margin-bottom:10px;">${{news.summary}}</div><div style="display:flex;align-items:center;justify-content:space-between;margin-top:12px;">${{footerContent}}<span style="font-size:0.8em;color:#999;">来源: ${{new URL(news.source).hostname}}</span></div></div>`;
+                            const sourceHostname = new URL(news.source).hostname;
+                            exportHTML += `<a href="${{news.source}}" target="_blank" style="text-decoration:none;color:inherit;display:block;"><div style="background:#f8f9fa;border-radius:12px;padding:20px;margin-bottom:15px;border-left:4px solid ${{sectionColor}};cursor:pointer;transition:all 0.3s;"><div style="font-size:1.15em;font-weight:600;color:#1a1a2e;margin-bottom:8px;line-height:1.4;">${{news.title}}</div><div style="font-size:0.95em;color:#666;line-height:1.6;margin-bottom:10px;">${{news.summary}}</div><div style="display:flex;align-items:center;justify-content:space-between;margin-top:12px;">${{footerContent}}<span style="font-size:0.8em;color:#999;">来源: ${{sourceHostname}}</span></div></div></a>`;
                         }});
                         exportHTML += '</div>';
                     }}
