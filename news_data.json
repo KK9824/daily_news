@@ -1,130 +1,117 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "ai": [
     {
-      "title": "构建安全、有效的沙箱以在 Windows 上启用 Codex",
-      "summary": "了解 OpenAI 如何在 Windows 上为 Codex 构建安全沙箱，通过受控文件访问和网络限制实现安全、高效的编码代理...",
-      "source": "https://openai.com/index/building-codex-windows-sandbox",
-      "date": "2026-05-13",
+      "title": "随时随地使用 Codex",
+      "summary": "通过 ChatGPT 移动应用程序在任何地方使用 Codex。跨设备和远程环境实时监控、指导和批准编码任务。",
+      "source": "https://openai.com/index/work-with-codex-from-anywhere",
+      "date": "2026-05-14",
       "source_name": "OpenAI Blog",
       "translated": true,
       "tags": [
         "#OpenAI",
         "#AI",
-        "#沙箱"
+        "#Codex"
       ]
     },
     {
-      "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
-      "summary": "5月20日，马上AI起来！",
-      "source": "https://www.qbitai.com/2026/05/417447.html",
-      "date": "2026-05-13",
+      "title": "帮助 ChatGPT 更好地识别敏感对话中的上下文",
+      "summary": "了解新的 ChatGPT 安全更新如何提高敏感对话中的上下文感知，帮助随着时间的推移检测风险并更安全地做出响应。",
+      "source": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "date": "2026-05-14",
+      "source_name": "OpenAI Blog",
+      "translated": true,
+      "tags": [
+        "#OpenAI",
+        "#AI",
+        "#ChatGPT"
+      ]
+    },
+    {
+      "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+      "summary": "Agent时代的数据库，怎么跑通商业化？",
+      "source": "https://www.qbitai.com/2026/05/417731.html",
+      "date": "2026-05-14",
       "source_name": "量子位",
       "translated": false,
       "tags": [
         "#量子位",
         "#AI",
-        "#嘉宾"
+        "#数据库"
       ]
     },
     {
-      "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
-      "summary": "甚至可以直接在手机上做APP",
-      "source": "https://www.qbitai.com/2026/05/417366.html",
-      "date": "2026-05-13",
+      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+      "summary": "Team，从来不是默认选项",
+      "source": "https://www.qbitai.com/2026/05/417816.html",
+      "date": "2026-05-14",
       "source_name": "量子位",
       "translated": false,
       "tags": [
         "#量子位",
         "#AI",
-        "#idea"
+        "#AI"
       ]
     },
     {
-      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
-      "summary": "相同参数量超越扩散自回归",
-      "source": "https://www.qbitai.com/2026/05/416978.html",
-      "date": "2026-05-13",
+      "title": "淘天金码奖落幕：20 名超级工程师诞生，推动 AI Native 实践",
+      "summary": "AI主导、人类协助",
+      "source": "https://www.qbitai.com/2026/05/417927.html",
+      "date": "2026-05-14",
       "source_name": "量子位",
       "translated": false,
       "tags": [
         "#量子位",
         "#AI",
-        "#扩散"
-      ]
-    },
-    {
-      "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
-      "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。",
-      "source": "https://www.qbitai.com/2026/05/416963.html",
-      "date": "2026-05-13",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#林俊"
+        "#AI"
       ]
     }
   ],
   "internet": [
     {
-      "title": "30万亿细胞迷宫里寻路，MIT博士7年跑出一家上市公司",
-      "summary": "文 | 胡香赟 编辑 | 海若镜 5月13日，招股书秘交三个多月后，37岁的赖才达带领剂泰科技登陆港交所。开盘上涨170%，上市首日收涨127%，市值超270亿港币。 在这位带着几分书生气的麻省理工学院(MIT)化工博士背后，站着贝莱德、瑞银、国新基金、高瓴等基石投资机构，香港公开发售环节超购...",
-      "source": "https://36kr.com/p/3807162054106624?f=rss",
+      "title": "8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付",
+      "summary": "今日热点导览 李强会见美国工商界代表 微信成立800人团队适配鸿蒙，约占开发人员一半 周大福回应金饰又涨价 韩国要求三星与工会5月16日恢复谈判 美参议院批准凯文·沃什出任美联储主席 TOP 3 大新闻 韩国一季度未成年人股票账户暴涨近十倍 近日，三星电子市值突破1万亿美元大关，成为亚洲市值第...",
+      "source": "https://36kr.com/p/3809785128869641?f=rss",
       "date": "2026-05-14",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#MIT"
+        "#周大福"
       ]
     },
     {
-      "title": "36氪首发 | 九号领投一家AI智能影像设备公司，在巨头夹缝中年增长近4倍",
-      "summary": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，智能体育影像品牌「XbotGo」（深眸远智）于近期完成近亿元的新一轮融资。由九号资本领投，元禾控股、不同资本跟投，老股东零一创投超额跟投，云岫资本担任长期独家财务顾问。 在青少年体育运动文化发达的美国，体育不...",
-      "source": "https://36kr.com/p/3807831328300549?f=rss",
+      "title": "氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产",
+      "summary": "大公司： 苏州高新：董事长王平因个人原因辞职 36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司...",
+      "source": "https://36kr.com/p/3809007831375621?f=rss",
       "date": "2026-05-14",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#领投"
+        "#王平"
       ]
     },
     {
-      "title": "独家对谈｜林琳：一位耶鲁MBA裸辞转行卖保险之后",
-      "summary": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） 林琳有着外人眼中“光鲜”的履历：中国人民大学本科、耶鲁大学MBA，从一级市场与二级市场投研起步，深耕企业咨询培训近十年。 35岁后，这位履历光鲜的女孩跨界切入财富管理赛道，成为一名保险代理人。 她很少向外人提起，自己曾经历两...",
-      "source": "https://36kr.com/p/3807535484886786?f=rss",
+      "title": "腾讯要懂得花钱",
+      "summary": "作者&nbsp;|&nbsp;黄绎达 编辑&nbsp;|&nbsp;张帆 5月13日，腾讯公布了2026年一季度财报。 财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9...",
+      "source": "https://36kr.com/p/3808999399497221?f=rss",
       "date": "2026-05-14",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#林琳"
+        "#腾讯"
       ]
     },
     {
-      "title": "8点1氪丨林俊旸新公司估值20亿美金；贾跃亭宣布转战机器人业务；网红糖果被发现掺超高剂量伟哥",
-      "summary": "今日热点导览 腾讯刘炽平：腾讯没有大裁员计划 韩国政府称将支持三星与工会对话解决纠纷，以避免罢工 中美经贸磋商在韩国开始举行 宇树科技已注册多款机器人商标 TikTok在印尼、美国、日本三国官宣生活服务品牌TikTok GO TOP 3 大新闻 林俊旸创业，新公司估值约20亿美金 36氪独家获...",
-      "source": "https://36kr.com/p/3808362853834502?f=rss",
-      "date": "2026-05-13",
-      "source_name": "36kr",
-      "translated": false,
-      "tags": [
-        "#36氪",
-        "#互联网",
-        "#林俊"
-      ]
-    },
-    {
-      "title": "2026 AI最佳场景渗透案例重磅揭晓",
-      "summary": "&nbsp; &nbsp; 如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。 “渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。 据麦肯锡《2025 AI应用现状调研》...",
-      "source": "https://36kr.com/p/3807623172235011?f=rss",
-      "date": "2026-05-13",
+      "title": "腾讯，把AI塞入一切",
+      "summary": "文｜王毓婵 2026年Q1，腾讯的一切都与AI相关。 一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。从整体上来说，在AI上的高投入确实让Non-IFRS经营利润从本该有的双位数增长掉到了单位数。 财报显示，若剔除新AI产品（Hy、元宝、C...",
+      "source": "https://36kr.com/p/3808710182034944?f=rss",
+      "date": "2026-05-14",
       "source_name": "36kr",
       "translated": false,
       "tags": [
@@ -132,27 +119,27 @@
         "#互联网",
         "#AI"
       ]
+    },
+    {
+      "title": "与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发",
+      "summary": "文&nbsp;|&nbsp;阿至 当低空经济从政策概念走向产业化落地，一场关于“动力心脏”的落地卡位战也在悄然展开。 36氪获悉，航空电推进系统研制商羽嘉动力科技（常州）有限公司（以下简称“羽嘉动力”）近日宣布连续完成天使+、天使++两轮融资，累计金额数千万元，投资方包括益华投资、元禾控股、常...",
+      "source": "https://36kr.com/p/3808772503199489?f=rss",
+      "date": "2026-05-14",
+      "source_name": "36kr",
+      "translated": false,
+      "tags": [
+        "#36氪",
+        "#互联网",
+        "#羽嘉"
+      ]
     }
   ],
   "tech": [
     {
-      "title": "早报｜元宝推出一键总结微信聊天/曝苹果探索将AI Agent引入App Store/小米 17 Max官宣本月发布",
-      "summary": "· MacBook Neo 推高销量，苹果笔记本一季度线上市占升至 13% · 比亚迪回应推「车机屏幕小换大」服务 · Charli xcx 成为 Nothing 首位全球品牌大使#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1665809?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "title": "杀死 ChatGPT 聊天框的，是「鼠标」",
+      "summary": "AI 人机交互，迎来十字路口#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665672?utm_source=rss&utm_medium=rss&utm_campaign=",
       "date": "2026-05-14",
-      "source_name": "爱范儿",
-      "translated": false,
-      "tags": [
-        "#爱范儿",
-        "#科技",
-        "#微信"
-      ]
-    },
-    {
-      "title": "MiniMax 推出了 Mavis，活脱脱的 Agent「三省六部」",
-      "summary": "管 agent 要像管人一样，懂得「驭臣之术」……#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1665759?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-05-13",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
@@ -162,90 +149,90 @@
       ]
     },
     {
-      "title": "红米 KPad 2 体验：卖到 3000 块，凭什么和 iPad mini 比？",
-      "summary": "高刷、高刷，还是高刷#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1665746?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-05-13",
+      "title": "传联手玛莎拉蒂打造新车，尊界将迎来自己的「Pura」时刻？",
+      "summary": "锐意向前。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665861?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-14",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#高刷"
+        "#爱范儿"
       ]
     },
     {
-      "title": "vivo Y600 Pro 体验：这部「充电宝手机」，为什么对 vivo 很重要",
-      "summary": "Y600 Pro 可能是 vivo 今年最重要的一款产品。它不一定最贵、不一定最亮眼，但它代表了 vivo 这家公司对入门级市场的一次重新理解 —— 这个档位的用户要的是什么，不再由旗舰来定义。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1665702?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-05-13",
+      "title": "三个轮子也能开！全新豹 5 豹 8 首发云辇-P Ultra，30.58 万元起",
+      "summary": "液压底盘，让方程豹告别千斤顶。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665791?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-14",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#vivo"
+        "#爱范儿"
       ]
     },
     {
-      "title": "Android Auto 全面更新，看齐 Carplay！还有更「懂车」的 Gemini",
-      "summary": "让 Android Auto 和 Google Built-in 更适应不同车型和不同屏幕，同时继续与苹果 CarPlay 竞争。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1665693?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-05-13",
+      "title": "黄仁勋的 Token 经济，李彦宏的 DAA，AI 度量衡之争才刚开始",
+      "summary": "AI 时代的价值坐标正在被重建。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665838?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-14",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#Android"
+        "#AI"
+      ]
+    },
+    {
+      "title": "连时间都没法看的手环，每年敢收 1000 块，居然比苹果还火？",
+      "summary": "让人愿意戴，并且愿意长时间戴，这就是智能穿戴产品最重要的优势。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1665715?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-14",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
       ]
     }
   ],
   "ev": [
     {
-      "title": "如果您仍然想要 30% 的太阳能税收抵免，新的恐慌日期是 7 月 4 日",
-      "summary": "特朗普政府决定在 2025 年废除 30% 的家庭太阳能税收抵免，这看起来像是补贴住宅项目的终结……",
-      "source": "https://electrek.co/2026/05/13/if-you-still-want-that-30-solar-tax-credit-the-new-panic-date-is-july-4/",
-      "date": "2026-05-13",
+      "title": "特斯拉现在强制驾驶员在干预“完全自动驾驶”时提供反馈",
+      "summary": "特斯拉悄悄地强制要求司机在每次干预“完全自动驾驶”时提供反馈。提示符，用于显示...",
+      "source": "https://electrek.co/2026/05/14/tesla-forces-fsd-intervention-feedback-mandatory/",
+      "date": "2026-05-14",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#抵免"
+        "#特斯拉"
       ]
     },
     {
-      "title": "这支英国租赁车队拥有 100 台 JCB 电动机器，可轻松实现电动化",
-      "summary": "英国的一家设备租赁公司正在使建筑和场地维护人员比以往任何时候都更容易测试电气设备选项......",
-      "source": "https://electrek.co/2026/05/13/with-100-jcb-e-machines-on-hand-this-uk-rental-fleet-makes-it-ez-to-go-ev/",
-      "date": "2026-05-13",
+      "title": "特斯拉太阳能屋顶因转向电池板而处于生命维持状态",
+      "summary": "特斯拉的太阳能屋顶有望彻底改变住宅太阳能。埃隆·马斯克 (Elon Musk) 于 2016 年推出了该产品，承诺打造漂亮的太阳能瓦片……",
+      "source": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "date": "2026-05-14",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#租赁"
+        "#太阳能"
       ]
     },
     {
-      "title": "起亚发起“全面进攻”，首款电动汽车闯入日本禁地",
-      "summary": "起亚在日本推出首款电动汽车后，正式进入禁地。 PV5将带头起亚向日系车“全面进攻”",
-      "source": "https://electrek.co/2026/05/13/kia-launches-full-scale-attack-first-ev-japan/",
-      "date": "2026-05-13",
-      "source_name": "Electrek",
-      "translated": true,
-      "tags": [
-        "#Electrek",
-        "#新能源",
-        "#起亚"
-      ]
-    },
-    {
-      "title": "大众汽车即将推出首款电动 GTI",
-      "summary": "五十年后，大众汽车确认了第一款电动 GTI ID。 Polo GTI 将于 5 月 15 日星期五首次亮相。更多…",
-      "source": "https://electrek.co/2026/05/13/volkswagen-reveal-first-electric-gti/",
-      "date": "2026-05-13",
+      "title": "大众汽车 ID。 Polo GTI leaks as a spicy new EV hot hatch [Images]",
+      "summary": "身份证。 Polo GTI 是大众汽车首款电动 GTI。在其正式亮相的前一天，图片在网上泄露，首次展示了电动汽车掀背车......",
+      "source": "https://electrek.co/2026/05/14/volkswagen-id-polo-gti-leaks-spicy-new-ev-hot-hatch-images/",
+      "date": "2026-05-14",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
@@ -255,16 +242,29 @@
       ]
     },
     {
-      "title": "Bluetti 3,014Wh Elite 300 发电站独家低至 1,011 美元、Segway F3 电动滑板车 + 配件积分 750 美元、Jackery 等",
-      "summary": "Our mid-week Green Deals are jam-packed with tons of lows, some short-term promotions, exclusive savings, and more. Leading the list is Bluetti’s l...",
-      "source": "https://electrek.co/2026/05/13/bluetti-3014wh-elite-300-power-station-segway-f3-electric-scooter-jackery-more/",
-      "date": "2026-05-13",
+      "title": "小鹏汽车正在洽谈收购大众汽车欧洲工厂，出口量猛增 62%",
+      "summary": "小鹏汽车 (XPEV) 正在与大众汽车就收购一家欧洲工厂进行谈判，因为这家中国电动汽车制造商在奥地利的合同生产已经耗尽。",
+      "source": "https://electrek.co/2026/05/14/xpeng-talks-buy-volkswagen-plant-europe-expansion/",
+      "date": "2026-05-14",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#Bluetti"
+        "#小鹏"
+      ]
+    },
+    {
+      "title": "这款售价 10,000 美元的电动汽车在中国很受欢迎，配备半固态电池",
+      "summary": "全球首款采用半固态电池的量产电动车——新款名爵4，已迅速成为中国畅销车型，销量已突破10万辆……",
+      "source": "https://electrek.co/2026/05/14/10000-ev-a-hit-in-china-offering-semi-solid-state-battery/",
+      "date": "2026-05-14",
+      "source_name": "Electrek",
+      "translated": true,
+      "tags": [
+        "#Electrek",
+        "#新能源",
+        "#10"
       ]
     }
   ]
