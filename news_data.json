@@ -1,270 +1,204 @@
 {
-  "date": "2026-05-26",
-  "ai": [
-    {
-      "title": "OpenAI、Grupo Folha 和 Grupo UOL 宣布战略内容合作伙伴关系",
-      "summary": "OpenAI 与 Grupo Folha 和 Grupo UOL 合作，将值得信赖的巴西新闻引入 ChatGPT，通过归属和翻译扩大对新闻的访问...",
-      "source": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "date": "2026-05-25",
-      "source_name": "OpenAI Blog",
-      "translated": true,
-      "tags": [
-        "#OpenAI",
-        "#AI",
-        "#Grupo"
-      ]
-    },
-    {
-      "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-      "summary": "硬件不该让人适应，它应该主动适应你",
-      "source": "https://www.qbitai.com/2026/05/424794.html",
-      "date": "2026-05-25",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#适应"
-      ]
-    },
-    {
-      "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-      "summary": "特斯拉学会“躲交警”了",
-      "source": "https://www.qbitai.com/2026/05/424610.html",
-      "date": "2026-05-25",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#车遇"
-      ]
-    },
-    {
-      "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-      "summary": "6月10-11日盛大启幕",
-      "source": "https://www.qbitai.com/2026/05/424605.html",
-      "date": "2026-05-25",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#启幕"
-      ]
-    },
-    {
-      "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-      "summary": "“要做机器人时代的安卓系统”",
-      "source": "https://www.qbitai.com/2026/05/424584.html",
-      "date": "2026-05-25",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#模型"
-      ]
-    }
-  ],
+  "date": "2026-05-27",
+  "ai": [],
   "internet": [
     {
-      "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
-      "summary": "今日热点导览 美媒：美伊已就全面开放霍尔木兹海峡达成一致 拉勾网及创始人被限消 宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55% 1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏 寒武纪盘中涨超11%，总市值超9000亿创历史新高 TOP3大新闻 胖东来...",
-      "source": "https://36kr.com/p/3825357879497346?f=rss",
-      "date": "2026-05-25",
+      "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
+      "summary": "炒股的朋友都有同感：现在信息太多太杂，消息慢一步、判断错一步，都可能影响操作。刷新闻、翻研报、逛股吧，花了大把时间，还是抓不住重点、分不清真假，越看越乱。 好消息是 ——36氪企业全情报小程序新版本正式上线啦！这次更新完全站在大家的使用习惯上，把体验和功能都做了优化，帮你少走弯路、少花时间，轻...",
+      "source": "https://36kr.com/p/3826003757437573?f=rss",
+      "date": "2026-05-26",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#水蜜桃"
+        "#36"
       ]
     },
     {
-      "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-      "summary": "图源：公众号「有三思 &nbsp;U &nbsp;Sense」 做个测试。读一下这段话： “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。” 如果你笑了，或者皱了眉，很明显，你的“鉴AI雷达”已经觉醒。&nbsp; 近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。...",
-      "source": "https://36kr.com/p/3824601267196037?f=rss",
-      "date": "2026-05-25",
+      "title": "机器人启蒙，需要一所能“犯错”的幼儿园",
+      "summary": "2024年，强化学习奠基人理查德·萨顿与他的导师安德鲁·巴托共同获得了图灵奖。 这个奖项来得不算早。过去三十年，萨顿的理论支撑了AlphaGo、ChatGPT等系统的进化，但他三十年前写下的理论，直到今天才被具身智能行业真正理解： 智能体要从试错中学习，要从真实经验里进化。 2023年，萨顿参...",
+      "source": "https://36kr.com/p/3825969453699970?f=rss",
+      "date": "2026-05-26",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#AI"
+        "#萨顿"
       ]
     },
     {
-      "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 ...",
-      "source": "https://36kr.com/p/3824164325412992?f=rss",
-      "date": "2026-05-25",
+      "title": "氪星晚报｜我国人形机器人全球市场占比超八成；三星电子将从下月开始允许员工使用外部AI模型；知情人士：字节跳动本月向Seed员工开放“豆包股”认购权",
+      "summary": "大公司： 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权 据四位了解该激励计划的知情人士透露，字节跳动正为旗下Seed人工智能部门员工提供与该部门挂钩的低价股票期权。这是字节跳动首次针对特定业务单元发行股权。该激励机制让员工能分享Seed部门的成长收益，且不会被字节跳动其他业务线的业...",
+      "source": "https://36kr.com/p/3825928694846085?f=rss",
+      "date": "2026-05-26",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#AI"
+        "#字节"
       ]
     },
     {
-      "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
-      "summary": "大公司： 番茄小说持续加强低质内容治理，5月处置低质书籍超15万本 36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。 全国首单挂钩蓝色债券合约类信用衍生品交易...",
-      "source": "https://36kr.com/p/3824439681520002?f=rss",
-      "date": "2026-05-25",
+      "title": "半价享顶级性能！天工 SkyClaw Agent 模型限时免费试用",
+      "summary": "5月26日，昆仑万维旗下天工 AI 正式推出高性能 Agent 模型&nbsp;SkyClaw-v1.0，并同步发布轻量化版本&nbsp;SkyClaw-v1.0-lite，兼具顶尖性能与极致性价比。 SkyClaw-v1.0 支持百万token上下文，深度适配各类真实智能体工作场景，重点优化...",
+      "source": "https://36kr.com/p/3825882266407815?f=rss",
+      "date": "2026-05-26",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#低质"
+        "#SkyClaw"
       ]
     },
     {
-      "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
-      "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于西安电子科技大学广州研究院，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持软硬一体，为半...",
-      "source": "https://36kr.com/p/3824158896312709?f=rss",
-      "date": "2026-05-25",
+      "title": "求购Deepseek老股份额；求购长鑫存储老股份额｜资情留言板第183期",
+      "summary": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第183期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交...",
+      "source": "https://36kr.com/p/3825834410333062?f=rss",
+      "date": "2026-05-26",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#AI"
+        "#183"
       ]
     }
   ],
   "tech": [
     {
-      "title": "DeepSeek 要用蜜雪冰城的打法，做中国版 Claude Code",
-      "summary": "为什么必须做中国版「Claude Code」？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1666548?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-05-25",
+      "title": "带摄像头的 AI 耳机能替代 iPhone 吗？我戴了 72 小时之后有了答案",
+      "summary": "新产品的出现，总是伴随着新问题的出现#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1666435?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-26",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#Claude"
+        "#爱范儿"
       ]
     },
     {
-      "title": "将 600 亿参数大模型装进手机的瓶颈，终于被中国 AI 公司突破了",
-      "summary": "国产闭环，框架国产，芯片国产，模型国产，方法论自主#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1666847?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-05-25",
+      "title": "用 Codex 优化网速狂飙 900Mbps？实测之后我发现了新的隐藏玩法",
+      "summary": "还可以破解家用电器，释放C盘空间#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1666874?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-26",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#国产"
+        "#爱范儿"
       ]
     },
     {
-      "title": "派评 | 近期值得关注的 App",
-      "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-      "source": "https://sspai.com/post/110156",
-      "date": "2026-05-25",
+      "title": "华为提出「韬定律」，寻找国产芯片自己的进化方向",
+      "summary": "面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1666860?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-26",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
+      ]
+    },
+    {
+      "title": "早报｜华为公布韬定律，Mate 90有望搭载更强芯片/宇树科技上会估值420亿/DeepSeek登顶全球调用榜",
+      "summary": "· Gurman：Apple Watch 需要重启健康叙事 · 银河证券：钠离子电池规模化节点临近 · 美团、腾讯参投机器人公司天机智能 10 亿元融资#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1666931?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-05-26",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
+      ]
+    },
+    {
+      "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "source": "https://sspai.com/post/110184",
+      "date": "2026-05-26",
       "source_name": "少数派",
       "translated": false,
       "tags": [
         "#少数派",
         "#科技",
-        "#少数派"
-      ]
-    },
-    {
-      "title": "无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能",
-      "summary": "每年五月的第三个周四是全球无障碍宣传日(GlobalAccessibilityAwarenessDay,GAAD)，宣传日由美国开发者JoeDevon与无障碍专家JennisonAsuncion在20 ...查看全文",
-      "source": "https://sspai.com/post/110144",
-      "date": "2026-05-25",
-      "source_name": "少数派",
-      "translated": false,
-      "tags": [
-        "#少数派",
-        "#科技",
-        "#无障碍"
-      ]
-    },
-    {
-      "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "source": "https://sspai.com/post/81257",
-      "date": "2026-05-25",
-      "source_name": "少数派",
-      "translated": false,
-      "tags": [
-        "#少数派",
-        "#科技",
-        "#Matrix"
+        "#社区"
       ]
     }
   ],
   "ev": [
     {
-      "title": "法拉利 Luce 第一眼：前往燃烧无法追随的地方",
-      "summary": "法拉利今天在罗马推出了 Luce，完成了从去年 10 月的规格开始到 Jony Ive 设计的三幕发布会。",
-      "source": "https://electrek.co/2026/05/25/ferrari-luce-first-electric-ferrari-hands-on-rome-launch/",
-      "date": "2026-05-25",
+      "title": "比亚迪的新款 Yuan Plus EV 增加了续航里程和快速充电功能，售价 18,000 美元 [视频]",
+      "summary": "比亚迪推出第三代元Plus，在海外销售时名为Atto 3，配备全新闪充功能，续航里程近400英里。上...",
+      "source": "https://electrek.co/2026/05/26/byds-new-yuan-plus-ev-adds-range-fast-charging-for-18000/",
+      "date": "2026-05-26",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#Luce"
+        "#Plus"
       ]
     },
     {
-      "title": "本田推出的平价电动掀背车“热销”，售价 21,000 美元",
-      "summary": "本田表示，这款电动掀背车的起价约为 21,000 美元，已经超出了预期，预订量超过 7,000 份。更多的…",
-      "source": "https://electrek.co/2026/05/25/hondas-affordable-ev-hot-hatch-selling-like-hotcakes/",
-      "date": "2026-05-25",
+      "title": "新数据显示，特斯拉“Robotaxi”车队实际上正在萎缩，而不是增长",
+      "summary": "在我们报道特斯拉无人监管的“Robotaxi”车队终于显示出一些增长迹象后不到一个月，来自 Robotaxi 的新数据......",
+      "source": "https://electrek.co/2026/05/26/tesla-robotaxi-fleet-shrinking-not-growing/",
+      "date": "2026-05-26",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#000"
+        "#Robotaxi"
       ]
     },
     {
-      "title": "Bluetti 独家阵亡将士纪念日发电站低至 237 美元，EcoFlow 48 小时闪购 716Wh 至 12.2kWh 发电站，更多",
-      "summary": "今天是阵亡将士纪念日，因此，我们有大量绿色优惠，您可以从今天到本周剩余时间进行购物，其中还添加了一些新内容......",
-      "source": "https://electrek.co/2026/05/25/bluetti-exclusive-memorial-day-power-station-lows-ecoflow-48-hour-flash-sale-power-stations-more/",
-      "date": "2026-05-25",
+      "title": "Renewables’ installed capacity to beat natural gas by 2027 – EIA data",
+      "summary": "如果包括小型太阳能，SUN DAY Campaign审查的美国能源信息管理局（EIA）最新发布的数据表明，...",
+      "source": "https://electrek.co/2026/05/26/renewables-installed-capacity-to-beat-natural-gas-by-2027-eia-data/",
+      "date": "2026-05-26",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#阵亡将士"
+        "#EIA"
       ]
     },
     {
-      "title": "这些荷兰学生将带着世界冠军太阳能汽车参加 2026 年 Electrek 美国太阳能挑战赛",
-      "summary": "今年 7 月，2026 年 Electrek 太阳方程式大奖赛 (FSGP) 和美国太阳能挑战赛 (ASC) 向北前往明尼苏达州，46 个注册赛事之一...",
-      "source": "https://electrek.co/2026/05/25/these-dutch-students-are-bringing-a-world-champion-solar-car-to-the-2026-electrek-american-solar-challenge/",
-      "date": "2026-05-25",
+      "title": "宝马将告别这款流行的汽油跑车，但一款新的高性能电动汽车将介入",
+      "summary": "2027 年 G80 BMW M3 将是这款标志性汽油动力跑车的最后一个车型年，但一款高性能电动汽车即将推出，有望提供...",
+      "source": "https://electrek.co/2026/05/26/bmw-dropping-iconic-gas-sports-car-ev-will-step-in/",
+      "date": "2026-05-26",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#2026"
+        "#跑车"
       ]
     },
     {
-      "title": "比亚迪将其豪华电动汽车变成了瑞士汽车珠宝，并以创纪录的 80 万美元以上成交",
-      "summary": "Denza Z9 GT Chopard Edition 融入了金色装饰、稀有宝石和比亚迪全新闪存充电系统，使其能够快速充电...",
-      "source": "https://electrek.co/2026/05/25/byd-turns-luxury-ev-into-swiss-piece-of-jewelry-sells-for-record-800k/",
-      "date": "2026-05-25",
+      "title": "Bluetti 的 128Wh Elite 10 Mini 发电站低至 113 美元，Segway E3 Pro 电动滑板车低至 550 美元，Anker SOLIX EverFrost 2 冷却器低至 650 美元，更多",
+      "summary": "阵亡将士纪念日可能已经过去，但季节性和假日节省并没有放缓，今天为您提供一批新的绿色优惠，以及......",
+      "source": "https://electrek.co/2026/05/26/bluetti-128wh-elite-10-mini-power-station-segway-e3-pro-electric-scooter-anker-solix-everfrost-2-coolers-more/",
+      "date": "2026-05-26",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#充电"
+        "#低至"
       ]
     }
   ]
