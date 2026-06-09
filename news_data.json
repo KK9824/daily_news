@@ -1,24 +1,37 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-09",
   "ai": [
     {
-      "title": "在密歇根州建设智能时代的基础设施",
-      "summary": "作为 Stargate 的一部分，OpenAI 在密歇根州破土动工了一个 1GW 的数据中心项目，建设人工智能基础设施以扩大访问范围、创造就业机会并提供服务。",
-      "source": "https://openai.com/index/stargate-michigan-data-center",
-      "date": "2026-06-01",
+      "title": "向 SEC 秘密提交 S-1 草案",
+      "summary": "OpenAI 确认已向 SEC 提交机密 S-1，但尚未确定采取进一步行动的时间。",
+      "source": "https://openai.com/index/openai-submits-confidential-s-1",
+      "date": "2026-06-08",
       "source_name": "OpenAI Blog",
       "translated": true,
       "tags": [
         "#OpenAI",
         "#AI",
-        "#密歇根州"
+        "#SEC"
       ]
     },
     {
-      "title": "OpenAI 前沿模型和 Codex 现已在 AWS 上提供",
-      "summary": "OpenAI 前沿模型和 Codex 现已普遍在 AWS 上提供，为企业提供了通过 AWS 环境使用 OpenAI 进行构建的新途径...",
-      "source": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "date": "2026-06-01",
+      "title": "旨在造福所有人：我们的计划",
+      "summary": "人工智能未来的愿景，重点关注接入、安全和共享繁荣，OpenAI 致力于确保 AGI 惠及每个人。",
+      "source": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "date": "2026-06-08",
+      "source_name": "OpenAI Blog",
+      "translated": true,
+      "tags": [
+        "#OpenAI",
+        "#AI",
+        "#愿景"
+      ]
+    },
+    {
+      "title": "OpenAI 经济研究交流中心简介",
+      "summary": "OpenAI 发起经济研究交流，以研究人工智能对就业、生产力和经济的影响。申请现已开放给选定的...",
+      "source": "https://openai.com/index/economic-research-exchange",
+      "date": "2026-06-08",
       "source_name": "OpenAI Blog",
       "translated": true,
       "tags": [
@@ -28,144 +41,118 @@
       ]
     },
     {
-      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
-      "summary": "已经投资了数个世界领先的AI科技公司",
-      "source": "https://www.qbitai.com/2026/06/427530.html",
-      "date": "2026-06-01",
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "summary": "协助用户与商家判断智能体可信赖程度",
+      "source": "https://www.qbitai.com/2026/06/432587.html",
+      "date": "2026-06-08",
       "source_name": "量子位",
       "translated": false,
       "tags": [
         "#量子位",
         "#AI",
-        "#清智系"
+        "#智能"
       ]
     },
     {
-      "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-      "summary": "场景永不消失，多人真正同屏",
-      "source": "https://www.qbitai.com/2026/06/427516.html",
-      "date": "2026-06-01",
+      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+      "summary": "ABot-Earth0.5正式开放内测",
+      "source": "https://www.qbitai.com/2026/06/432489.html",
+      "date": "2026-06-08",
       "source_name": "量子位",
       "translated": false,
       "tags": [
         "#量子位",
         "#AI",
-        "#VAST"
-      ]
-    },
-    {
-      "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
-      "summary": "暂无摘要",
-      "source": "https://www.qbitai.com/2026/06/427231.html",
-      "date": "2026-06-01",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#德系"
+        "#ABot"
       ]
     }
   ],
   "internet": [
     {
-      "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-      "summary": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆...",
-      "source": "https://36kr.com/p/3834544830721671?f=rss",
-      "date": "2026-06-01",
+      "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+      "summary": "2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。 2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\"三重浪（TRIONDA）\"。据阿迪达斯方面介绍，这款比赛用...",
+      "source": "https://36kr.com/p/3844185422400008?f=rss",
+      "date": "2026-06-08",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#豆包"
+        "#世界杯"
       ]
     },
     {
-      "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
-      "summary": "「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断：AI for Scien...",
-      "source": "https://36kr.com/p/3826034537223043?f=rss",
-      "date": "2026-06-01",
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "summary": "大公司： 热门中概股美股盘前多数上涨，哔哩哔哩涨超5% 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。 天娱数科：目前无物理AI业务，未形成相关业务收入...",
+      "source": "https://36kr.com/p/3844559758936582?f=rss",
+      "date": "2026-06-08",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#天使"
+        "#哔哩"
       ]
     },
     {
-      "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火计划”培育未来产业行动，加速量子技术产品规模化应用",
-      "summary": "大公司： 中通快递在广州成立新物流公司，注册资本5亿 36氪获悉，天眼查App显示，近日，广州中竞物流有限公司成立，法定代表人为范嘉玮，注册资本5亿人民币，经营范围包括国内货物运输代理、机械设备租赁、计算机系统服务等。股东信息显示，该公司由中通快递股份有限公司全资持股。 OpenAI官宣进军机...",
-      "source": "https://36kr.com/p/3834354415347337?f=rss",
-      "date": "2026-06-01",
+      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+      "summary": "文｜王毓婵 编辑｜张雨忻 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？ 毫无疑问，是汤道生与姚顺雨的对话。 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。 腾讯集团高级执...",
+      "source": "https://36kr.com/p/3844018911889924?f=rss",
+      "date": "2026-06-08",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#中通"
+        "#腾讯"
       ]
     },
     {
-      "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
-      "summary": "一、每一年，我们都在找一个地方，让年轻人在一起 WAVES之夜是WAVES独有的标签。 不是又一个分论坛，不是又一个颁奖礼，不是又一场穿西装坐两小时的行业对话。它是WAVES的\"晚上\"——白天属于议程和逻辑，夜晚属于人和直觉。 2023年，我们把年轻人和创业者拉到了北京金海湖的碧波岛上。那个夜...",
-      "source": "https://36kr.com/p/3834276149356420?f=rss",
-      "date": "2026-06-01",
+      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。&nbsp; AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。 但在...",
+      "source": "https://36kr.com/p/3844199957236227?f=rss",
+      "date": "2026-06-08",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#WAVES"
+        "#AI"
       ]
     },
     {
-      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
-      "summary": "作者&nbsp;|&nbsp;林晴晴 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，Micro-LED显示技术公司「秋水半导体」已于近期连续完成Pre-A及A轮融资，合计近2亿元人民币。本轮融资由朝晖资本领投，通商基金、盛宇投资、宁波人才发展基金、嘉溢创投、涌现科技、数字光芯及兴棠资本跟投，...",
-      "source": "https://36kr.com/p/3834427736024965?f=rss",
-      "date": "2026-06-01",
+      "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。 作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚...",
+      "source": "https://36kr.com/p/3844006775360002?f=rss",
+      "date": "2026-06-08",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#Micro"
+        "#范典"
       ]
     }
   ],
   "tech": [
     {
-      "title": "华为发布 nova 16 系列：2 亿主摄，红枫影像，还有十年的答案",
-      "summary": "nova 的变与不变#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1667771?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-01",
+      "title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
+      "summary": "苹果迟到的 AI 反攻，从 Siri 开始#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668385?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-08",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#nova"
+        "#Siri"
       ]
     },
     {
-      "title": "任务成本仅为Claude Opus 4.6 1/9，阶跃刷新Flash模型效率",
-      "summary": "Flash 模型，不再是旗舰的平替#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1667680?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-01",
-      "source_name": "爱范儿",
-      "translated": false,
-      "tags": [
-        "#爱范儿",
-        "#科技",
-        "#Flash"
-      ]
-    },
-    {
-      "title": "世界模型赛道，VAST 选了一条还没有人走过的路",
-      "summary": "不缺好的画面，缺一个真正运转的世界#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1667604?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-01",
+      "title": "300 个 AI 和我的八块腹肌",
+      "summary": "每天都能准点下班了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668274?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-08",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
@@ -175,10 +162,10 @@
       ]
     },
     {
-      "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-      "summary": "Mac mini 最强竞争对手？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1667641?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-01",
+      "title": "尊界 V800 内饰曝光！水晶壁灯上车，还有一台现磨咖啡机",
+      "summary": "把开车的麻烦留给司机，把喝茶的体面留给后排。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668353?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-08",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
@@ -188,10 +175,23 @@
       ]
     },
     {
-      "title": "提前看看，今年新 iPhone 系统长什么样｜WWDC26",
-      "summary": "iOS 27，稳中向好#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1667454?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-01",
+      "title": "苹果发布会最全预测：今晚你的 iPhone，会变成这个样子｜WWDC2026",
+      "summary": "库克最后一舞#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668275?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-08",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
+      ]
+    },
+    {
+      "title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
+      "summary": "山雨欲来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668337?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-08",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
@@ -203,62 +203,62 @@
   ],
   "ev": [
     {
-      "title": "沃尔沃建筑设备公司与日立能源公司将在零排放工地开展合作",
-      "summary": "沃尔沃建筑设备公司和日立能源公司签署了一份谅解备忘录，以支持和加速由清洁能源驱动的电池电动建筑设备的部署。",
-      "source": "https://electrek.co/2026/06/01/volvo-ce-hitachi-energy-set-to-partner-on-zero-emission-job-sites/",
-      "date": "2026-06-01",
+      "title": "一份新报告发现，太阳能正在压垮全球天然气增长",
+      "summary": "一项新的研究表明，随着各国越来越多地转向更便宜、更安全的可再生能源，天然气正在失去对全球电力结构的控制。",
+      "source": "https://electrek.co/2026/06/08/solar-is-crushing-gas-growth-worldwide-a-new-report-finds/",
+      "date": "2026-06-08",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#建筑设备"
+        "#天然气"
       ]
     },
     {
-      "title": "随着 ERCOT 电网需求飙升，德克萨斯州又增加了一个大型太阳能发电场",
-      "summary": "随着 ERCOT 电网电力需求的激增，德克萨斯州不断加大太阳能项目的建设力度，而现在又一个大型项目正在推进。更多的…",
-      "source": "https://electrek.co/2026/06/01/texas-adds-another-huge-solar-farm-ercot-grid-demand-soars/",
-      "date": "2026-06-01",
+      "title": "比亚迪 1,000 多马力敞篷豪华电动汽车毫不掩饰地被发现 [图片]",
+      "summary": "比亚迪已经将其称为世界上第一款智能电动超级跑车。 Denza Z 的功率超过 1,000 马力，可以从 0-62 英里/小时（0-100 公里/小时）冲刺......",
+      "source": "https://electrek.co/2026/06/08/byds-1000-hp-drop-top-luxury-ev-spotted-undisguised-images/",
+      "date": "2026-06-08",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#ERCOT"
+        "#000"
       ]
     },
     {
-      "title": "丰田终止其最重要的电动汽车之一",
-      "summary": "低矮的雷克萨斯 LF-ZC 电动轿车已经死了。丰田正在取消推出下一代豪华电动汽车的计划，该电动汽车原本预计将进入生产...",
-      "source": "https://electrek.co/2026/06/01/toyota-pulls-plug-most-important-evs/",
-      "date": "2026-06-01",
+      "title": "福特售价 30,000 美元的电动皮卡即将上市——您甚至可能会在野外看到一辆",
+      "summary": "中型电动皮卡的推出还不够快。根据福特的说法，你可能很快就会在街上看到伪装的。更多的…",
+      "source": "https://electrek.co/2026/06/08/fords-30000-ev-pickup-almost-here-you-may-see-one-soon/",
+      "date": "2026-06-08",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#电动汽车"
+        "#皮卡"
       ]
     },
     {
-      "title": "比亚迪计划到 2027 年将全固态电池引入电动汽车，但它并不是唯一一家",
-      "summary": "下一代电动汽车电池可能比预期更接近。比亚迪和其他几家公司计划开始部署配备全固态电池的电动汽车......",
-      "source": "https://electrek.co/2026/06/01/byd-all-solid-state-batteries-evs-by-2027/",
-      "date": "2026-06-01",
+      "title": "甜甜圈实验室的“固态”电池在调查中被揭露为普通锂离子电池",
+      "summary": "电池研究人员 Ziroth 进行了一项由 20 多名独立电池专家参与的全面调查，得出了明确的结论……",
+      "source": "https://electrek.co/2026/06/08/donut-lab-solid-state-battery-exposed-lithium-ion-fraud/",
+      "date": "2026-06-08",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#全固态"
+        "#电池"
       ]
     },
     {
-      "title": "EcoFlow Hurricane Prep Sale 现有 2,048Wh DELTA 2 Max 发电站 899 美元，EGO 3,200 PSI 高压清洗机低至 699 美元，更多",
-      "summary": "大家六月快乐！我们将通过适当启动的 EcoFlow 飓风季节准备活动来拉开本周（和本月）绿色交易的报道……",
-      "source": "https://electrek.co/2026/06/01/ecoflow-hurricane-prep-sale-2048wh-delta-2-max-power-station-ego-3200-psi-pressure-washer-more/",
-      "date": "2026-06-01",
+      "title": "EcoFlow Early Prime Day 发电站可享受 62% 折扣 + 奖金节省和免费礼品/奖励，起价 149 美元，更多",
+      "summary": "如果您不知道，六月底将举行一年两次的 Prime Day 促销活动，而引领今天绿色交易的是新推出的 EcoFlow...",
+      "source": "https://electrek.co/2026/06/08/ecoflow-early-prime-day-sale-48-hour-flash-sale-power-station-from-149-more/",
+      "date": "2026-06-08",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
