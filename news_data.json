@@ -1,158 +1,92 @@
 {
-  "date": "2026-06-12",
-  "ai": [
-    {
-      "title": "OpenAI 收购 Ona",
-      "summary": "OpenAI 计划收购 Ona，以通过安全、持久的云环境扩展 Codex，从而实现跨企业工作流程长期运行的 AI 代理。",
-      "source": "https://openai.com/index/openai-to-acquire-ona",
-      "date": "2026-06-11",
-      "source_name": "OpenAI Blog",
-      "translated": true,
-      "tags": [
-        "#OpenAI",
-        "#AI",
-        "#OpenAI"
-      ]
-    },
-    {
-      "title": "支持欧洲确保值得信赖的人工智能生态系统的工作",
-      "summary": "OpenAI 支持欧盟关于人工智能内容透明度的实践准则，推进来源标准和工具，以帮助人们理解人工智能生成的……",
-      "source": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "date": "2026-06-11",
-      "source_name": "OpenAI Blog",
-      "translated": true,
-      "tags": [
-        "#OpenAI",
-        "#AI",
-        "#人工智能"
-      ]
-    },
-    {
-      "title": "天体物理学家如何使用 Codex 帮助模拟黑洞",
-      "summary": "了解天体物理学家 Chi-kwan Chan 如何使用 Codex 构建黑洞模拟，帮助科学家研究极端物理并测试爱因斯坦的......",
-      "source": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11",
-      "source_name": "OpenAI Blog",
-      "translated": true,
-      "tags": [
-        "#OpenAI",
-        "#AI",
-        "#Codex"
-      ]
-    },
-    {
-      "title": "BBVA 通过 OpenAI 将人工智能置于银行业的核心",
-      "summary": "了解 BBVA 如何将 ChatGPT Enterprise 扩展到 100,000 名员工，并与 OpenAI 合作，加速全球人工智能驱动的银行业转型。",
-      "source": "https://openai.com/index/bbva",
-      "date": "2026-06-11",
-      "source_name": "OpenAI Blog",
-      "translated": true,
-      "tags": [
-        "#OpenAI",
-        "#AI",
-        "#BBVA"
-      ]
-    },
-    {
-      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
-      "summary": "聪明人总能花最少的钱办最好的事，AI也一样。",
-      "source": "https://www.qbitai.com/2026/06/434571.html",
-      "date": "2026-06-11",
-      "source_name": "量子位",
-      "translated": false,
-      "tags": [
-        "#量子位",
-        "#AI",
-        "#Claude"
-      ]
-    }
-  ],
+  "date": "2026-06-16",
+  "ai": [],
   "internet": [
     {
-      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
-      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺集团西班牙新任首席执行官。何塞·马雷亚·里卡森将离开雷诺集团，寻求新的职业发展。克里斯蒂安·斯...",
-      "source": "https://36kr.com/p/3848516305605892?f=rss",
-      "date": "2026-06-11",
+      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "summary": "今日热点导览 国内品牌金饰价格普涨 小红书公布世界杯开赛数据 阿里巴巴达摩院退出旗下科技公司 罗马仕接连变更法定代表人 遇见小面创始人向“渝见小面”致歉 TOP3大新闻 针对多发食品安全问题，市场监管总局约谈山姆总部 记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店...",
+      "source": "https://36kr.com/p/3855082873476102?f=rss",
+      "date": "2026-06-15",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#克里斯蒂安"
+        "#山姆"
       ]
     },
     {
-      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
-      "summary": "两个月后，ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻...",
-      "source": "https://36kr.com/p/3848564910036229?f=rss",
-      "date": "2026-06-11",
+      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+      "summary": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？ 6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系...",
+      "source": "https://36kr.com/p/3854510160549124?f=rss",
+      "date": "2026-06-15",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#ChinaJoy"
+        "#Pocket"
       ]
     },
     {
-      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低...",
-      "source": "https://36kr.com/p/3848476414792709?f=rss",
-      "date": "2026-06-11",
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+      "summary": "大公司： 支付宝：政务AI助手“晓政”服务突破1亿次 36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。 小雨智造与地瓜机器人正...",
+      "source": "https://36kr.com/p/3854486447510535?f=rss",
+      "date": "2026-06-15",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#坦途"
+        "#晓政"
       ]
     },
     {
-      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
-      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来说，20万不是个值得一提的数字。但对于一款日本独立游戏来说，这确实是个不少的数量。开发商之一N...",
-      "source": "https://36kr.com/p/3848383082222849?f=rss",
-      "date": "2026-06-11",
+      "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+      "summary": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。&nbsp; 此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已...",
+      "source": "https://36kr.com/p/3854243718550528?f=rss",
+      "date": "2026-06-15",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#游戏"
+        "#HarmonyOS"
       ]
     },
     {
-      "title": "浪往南走：今年盛夏，WAVES来到番禺",
-      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——WAVES每年都在找一个地方，把36岁以下最值得关注的创业者和投资人放在同一个空间里。没有红毯，...",
-      "source": "https://36kr.com/p/3848188076381187?f=rss",
-      "date": "2026-06-11",
+      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人...",
+      "source": "https://36kr.com/p/3853016586359817?f=rss",
+      "date": "2026-06-15",
       "source_name": "36kr",
       "translated": false,
       "tags": [
         "#36氪",
         "#互联网",
-        "#WAVES"
+        "#AI"
       ]
     }
   ],
   "tech": [
     {
-      "title": "Agent 时代，需要一台能折叠的「移动工作台」｜AIDONE 5.0 全记录",
-      "summary": "无论 AI 如何进化，人始终应该是 AI 时代的主角。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1668634?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-11",
+      "title": "实测鸿蒙 7 开发者 Beta：AI 很强大，小艺很能干",
+      "summary": "手机开始自己干活了？我们在 HDC 2026 现场实测了全新小艺。 只需一句话，小艺就能跨设备取文件、做全能旅游搭子。 戳视频，看小艺自己干活。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668998?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-15",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#AI"
+        "#小艺"
       ]
     },
     {
-      "title": "Codex 大降价要来了，这份官方指南手把手教你高效榨干额度",
-      "summary": "是朋友就帮我「砍一刀」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1668621?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-11",
+      "title": "头部应用撑起天际线之后，鸿蒙还需要什么？",
+      "summary": "小团队，能干大事，是鸿蒙在 AI 时代的新标签。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668873?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-15",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
@@ -162,23 +96,10 @@
       ]
     },
     {
-      "title": "你喜欢喝可口可乐，还是百事可乐？｜影石 Luna Ultra 体验",
-      "summary": "大疆别回头，我是影石#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1668113?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-11",
-      "source_name": "爱范儿",
-      "translated": false,
-      "tags": [
-        "#爱范儿",
-        "#科技",
-        "#影石"
-      ]
-    },
-    {
-      "title": "苹果想用一副眼镜，改变你的脸｜WWDC 26",
-      "summary": "此时此刻，恰如彼时彼刻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1667844?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-11",
+      "title": "昊铂 S600 上市：20 万级 SUV 的竞争，开始进入「少做选择题」阶段",
+      "summary": "昊铂需要一个爆款。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668976?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-15",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
@@ -188,83 +109,96 @@
       ]
     },
     {
-      "title": "早报｜大疆Pocket4P价格曝光/3999起，影石Luna Ultra正式发布/何小鹏亲自直管机器人业务",
-      "summary": "· 荣耀官宣与微信首个 A2A 合作，YOYO 可直接发送微信消息 · 台积电 CFO：通胀推高成本，不排除涨价可能 · 张雪机车回应生锈问题：让实验说话#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "source": "https://www.ifanr.com/1668618?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "date": "2026-06-11",
+      "title": "限时 15.49 万元起，华为乾崑智驾 ADS Pro 上车全新深蓝 S07 增程版",
+      "summary": "华为乾崑智驾的平价之选。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668957?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-15",
       "source_name": "爱范儿",
       "translated": false,
       "tags": [
         "#爱范儿",
         "#科技",
-        "#微信"
+        "#智驾"
+      ]
+    },
+    {
+      "title": "早报｜曝苹果iOS还有三项功能没公布/Claude Fable 5封禁内幕曝光/阿里巴巴:「周靖人离职」为谣言",
+      "summary": "· 员工烧 Token 太猛，曝 Meta 开始限制 AI 用量 · 安克创新通过港交所上市聆讯，2025 年营收 305 亿元 · 豆包上线「任务模式」，扩展网页和 PPT 生成#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "source": "https://www.ifanr.com/1668954?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "date": "2026-06-15",
+      "source_name": "爱范儿",
+      "translated": false,
+      "tags": [
+        "#爱范儿",
+        "#科技",
+        "#爱范儿"
       ]
     }
   ],
   "ev": [
     {
-      "title": "The Chevy Equinox EV is suddenly way more expensive to lease at over $500 a month",
-      "summary": "America’s most affordable EV offering over 315 miles of range, as GM calls it, just got way more expensive to lease this month.",
-      "source": "https://electrek.co/2026/06/11/chevy-equinox-ev-more-expensive-to-lease-over-500-mo/",
-      "date": "2026-06-11",
+      "title": "Global EV sales hit 1.8 million in May as Europe races ahead",
+      "summary": "Global EV sales reached 1.8 million units in May 2026, according to new data from Benchmark Mineral Intelligence, bringing total sales for the firs...",
+      "source": "https://electrek.co/2026/06/15/global-ev-sales-hit-1-8-million-in-may-as-europe-races-ahead/",
+      "date": "2026-06-15",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#EV"
+        "#sales"
       ]
     },
     {
-      "title": "HARIBO 转向电动半挂卡车，软糖变环​​保",
-      "summary": "Iconic gummy candy brand HARIBO and its transport partners at Recht Logistik are turning to electric semi trucks to deliver emissions-free shipping...",
-      "source": "https://electrek.co/2026/06/11/gummys-go-green-as-haribo-turns-to-electric-semi-trucks/",
-      "date": "2026-06-11",
+      "title": "Toyota reveals prices for its first electric pickup",
+      "summary": "The Hilux BEV arrives as Toyota’s first fully electric pickup and body-on-frame EV.值这个价钱吗？",
+      "source": "https://electrek.co/2026/06/15/toyota-reveals-prices-for-first-electric-pickup/",
+      "date": "2026-06-15",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#HARIBO"
+        "#Toyota"
       ]
     },
     {
-      "title": "佐治亚州即将拥有美国历史上最大的太阳能电池工厂",
-      "summary": "太阳能巨头 Qcells 已开始在其位于佐治亚州卡特斯维尔的工厂生产太阳能电池，并且有望成为最大的太阳能电池工厂......",
-      "source": "https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/",
-      "date": "2026-06-11",
+      "title": "比亚迪将驾驶其豪华电动 GT 进行从欧洲到亚洲超过 9,300 英里的旅程",
+      "summary": "The Denza GT Z9 can drive over 600 miles, fast charge in under 10 minutes, and hit 0 to 62 mph in 2.7 seconds.现在，比亚迪的豪华电动汽车正在紧随其后……",
+      "source": "https://electrek.co/2026/06/15/byd-taking-luxury-electric-gt-on-over-9300-mile-trip/",
+      "date": "2026-06-15",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#太阳能"
+        "#GT"
       ]
     },
     {
-      "title": "阿肯色州一个大型太阳能+存储项目锁定 3.5B 美元融资",
-      "summary": "Cypress Creek Energy 在阿肯色州实现了美国最大的太阳能+储能项目之一的重要里程碑。",
-      "source": "https://electrek.co/2026/06/11/huge-arkansas-solar-storage-project-locks-in-3-5b-in-financing/",
-      "date": "2026-06-11",
+      "title": "Jackery 5,040Wh 发电站 + 2x 500W 太阳能电池板新低 3,905 美元，Anker SOLIX 独家闪购优惠起价 569 美元，Navee 等",
+      "summary": "我们在本周的绿色优惠活动中推出了一系列发电站优惠，首先是 Jackery 的早期黄金父亲节促销，我...",
+      "source": "https://electrek.co/2026/06/15/jackery-5040wh-power-station-2x-500w-solar-panels-anker-solix-navee-more/",
+      "date": "2026-06-15",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#阿肯色州"
+        "#Jackery"
       ]
     },
     {
-      "title": "比亚迪豪华电动跑车泄露，配备三电机 1,500+ 马力，即将进军海外",
-      "summary": "比亚迪即将与欧洲顶级豪华品牌正面交锋。在下个月正式推出之前，新细节显示 Denza Z 公路...",
-      "source": "https://electrek.co/2026/06/11/byds-luxury-ev-roadster-leaks-1500-hp-headed-overseas/",
-      "date": "2026-06-11",
+      "title": "宝马的新款 iX3 是一款续航里程怪兽，但 iX5 的续航里程可能会超过 500 英里",
+      "summary": "首款电动 iX5 将配备一块巨大的电池，这是 BMW 电动汽车中最大的电池，一次充电可行驶超过 500 英里。",
+      "source": "https://electrek.co/2026/06/15/bmw-ix3-range-monster-ix5-may-top-500-miles/",
+      "date": "2026-06-15",
       "source_name": "Electrek",
       "translated": true,
       "tags": [
         "#Electrek",
         "#新能源",
-        "#比亚迪"
+        "#iX5"
       ]
     }
   ]
